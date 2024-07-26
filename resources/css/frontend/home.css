@@ -1,0 +1,21 @@
+.home_background {
+    background-image: url("../../../public/img/frontend/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.titles > h1,
+.titles > h3 {
+    text-shadow: 1px 0 #000, -1px 0 #000, 0 1px #000, 0 -1px #000, 1px 1px #000,
+        -1px -1px #000, 1px -1px #000, -1px 1px #000;
+}
+
+.title-container {
+    color: #474740;
+}
+
+input,
+select {
+    border-color: #474740 !important;
+}
